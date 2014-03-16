@@ -1,6 +1,6 @@
 {
   "name": "faulty",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily define custom error objects",
   "keywords": [
     "error",
