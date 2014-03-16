@@ -1,4 +1,3 @@
-faulty
-======
+# faulty
 
-Helps you define custom error objects in Javascript.
+Will soon help you to easily define custom error objects in Javascript.
