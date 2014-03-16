@@ -1,7 +1,7 @@
 {
   "name": "faulty",
   "version": "0.1.1",
-  "description": "Easily define custom error objects",
+  "description": "A utility function to create custom error objects",
   "keywords": [
     "error",
     "custom",
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/martinandert/faulty",
   "repository": {
     "type": "git",
-    "url": "git://github.com/martinandert/faulty.git"
+    "url": "https://github.com/martinandert/faulty.git"
   },
   "bugs": {
     "url": "https://github.com/martinandert/faulty/issues"
