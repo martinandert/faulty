@@ -1,6 +1,6 @@
 # faulty
 
-Helps you to easily define custom error objects in Javascript.
+A utility function to create custom error objects in Javascript.
 
 
 
@@ -28,14 +28,14 @@ MyError.name
 var err = new MyError('something bad has just happened');
 // => [MyError: something bad has just happened]
 
-err.name
-// => 'MyError'
-
 err instanceof Error
 // => true
 
 err instanceof MyError
 // => true
+
+err.name
+// => 'MyError'
 
 err.message
 // => 'something bad has just happened'
